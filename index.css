@@ -1,0 +1,23 @@
+body  {
+  font-family:'Montserrat', sans-serif;
+    background-color: antiquewhite;
+      }
+      
+h1, h2, h3, p, label {
+  margin-left: 15px;
+}
+button {
+  background-color: crimson;
+  border: 1px solid crimson;
+  padding: 5px;
+  margin-top: 15px;
+  margin-left: 15px;
+  color: antiquewhite;
+}
+input {
+  margin-left: 5px;
+}
+
+fieldset {
+  border: 1px solid antiquewhite;
+}
